@@ -1,0 +1,42 @@
+CONVOY ROOFING AND ENGINEERING — WEBSITE PACKAGE
+
+Files included
+- index.html: responsive company website
+- convoy-logo.jpeg: company logo
+
+Contact details configured
+- Phone: +233 55 885 7693 / +233 59 276 9239
+- WhatsApp: 059 276 9239 (link uses Ghana country code 233)
+- Email: convoyroofingandengineering@gmail.com
+
+PREVIEW
+1. Extract the ZIP file.
+2. Open index.html in a browser. Keep convoy-logo.jpeg in the same folder.
+
+PUBLISH ONLINE (NETLIFY DROP)
+1. On a computer, visit https://app.netlify.com/drop
+2. Sign in or create an account if asked.
+3. Extract this ZIP. Drag the convoy-roofing-website folder or its contents into the upload area.
+4. Netlify will provide a public website URL.
+
+ALTERNATIVE: GITHUB PAGES
+1. Create a GitHub account and a new repository.
+2. Upload index.html and convoy-logo.jpeg to the repository root.
+3. Open repository Settings → Pages and enable deployment from the main branch/root.
+4. Use the public URL GitHub provides after deployment.
+
+CUSTOM DOMAIN
+You selected that you need a new domain. A domain is purchased separately from a domain registrar; availability and prices vary. Once purchased, connect it using the hosting provider's domain settings and follow the DNS instructions shown there.
+
+NOTES
+- This is a static website; it does not need a database or server-side backend.
+- The enquiry form prepares a message for WhatsApp or email. The customer must press Send in their app.
+- Confirm the WhatsApp number is registered and active before publishing.
+
+
+PICTURES ADDED
+A responsive six-image gallery has been added. Photos load from Unsplash, so visitors need an internet connection to view them. Replace these stock photos with your own completed project photos when available.
+
+
+REAL PROJECT PHOTOS ADDED
+Five photos supplied by the company have been added under the images/ folder and are displayed in the website gallery. Keep the images/ folder alongside index.html when uploading the site. These project photos are stored in the website package and do not depend on an external image service.
