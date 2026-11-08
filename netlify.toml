@@ -1,0 +1,4 @@
+# Static site: index.html, convoy-logo.jpeg and images/ live at the repository root.
+[build]
+  publish = "."
+  command = "echo 'Static site - no build step required'"
