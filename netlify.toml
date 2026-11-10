@@ -1,4 +1,5 @@
-# Static site: index.html, convoy-logo.jpeg and images/ live at the repository root.
+# Static site: index.html, convoy-logo.jpeg and images/ live in convoyroofing.contractors/,
+# which matches the publish directory configured in the Netlify UI build settings.
 [build]
-  publish = "."
+  publish = "convoyroofing.contractors"
   command = "echo 'Static site - no build step required'"
